@@ -1,0 +1,39 @@
+html {
+    margin: 0;
+    color: brown;
+    
+  }
+  
+  span {
+    display: block;
+  }
+  .canvas {
+    margin: 100px auto 100px;
+    width: 80%;
+    text-align: center;
+    
+  }
+  
+  .button {
+    width: 100px;
+    height: 100px;
+    border: solid white 2px;
+    display: inline-block;
+  }
+  
+  #Green {
+    background-color: green;
+  }
+  
+  #Black {
+    background-color: black;
+  }
+  #Red {
+    background-color: red;
+  }
+  #Blue {
+    background-color: blue;
+  }
+  #Purple {
+    background-color: purple;
+  }
